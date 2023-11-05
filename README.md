@@ -78,7 +78,7 @@ These are the testing results in real time from the project after training the d
 
 ## Run
 ### Run on Old Weights
-To run on the previous versions weights the user has to run load.weights("my_model_h5")
+To run on the previous versions weights the user has to run load.weights("my_model_new.h5")
 
 ### Run on New Weights
 To run on a new dataset:
