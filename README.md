@@ -52,19 +52,8 @@ The model was then Trained on 2000 epochs.
 ## Testing in Real time
 These are the testing results in real time from the project after training the data on the LSTM Architecture using MP Holistic
 
-### Hello
+![Screenshot 2023-11-07 195457](https://github.com/FruitPnchSamuraiG/Sign_language_detection/assets/146465657/7ed6601d-2cf0-451b-9760-06c89ef6d065)
 
-
-
-### Thanks
-
-
-
-### I Love You
-
-
-
-### Rashford Celebration
 
 #### 1.  Color Coded Probability Viewer
 
@@ -80,10 +69,9 @@ These are the testing results in real time from the project after training the d
 ### Run on Old Weights
 To run on the previous versions weights the user has to run load.weights("my_model_new.h5")
 
-### Run on New Weights
-To run on a new dataset:
+## Output
+![Screenshot 2023-11-07 195749](https://github.com/FruitPnchSamuraiG/Sign_language_detection/assets/146465657/555df70b-4efc-4f8b-af50-be5d65d24451)
 
-1. CollectData.py
 
       - When the camera opens pose in the Sign Language poses for 30 sequences in 'Hello', 'Thanks', and 'I Love You'.
 
