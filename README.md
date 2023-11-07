@@ -69,13 +69,9 @@ These are the testing results in real time from the project after training the d
 ### Run on Old Weights
 To run on the previous versions weights the user has to run load.weights("my_model_new.h5")
 
+      - When the camera opens pose in the Sign Language poses for 30 sequences in 'Hello', 'Thanks', and 'I Love You'.
+
 ## Output
 ![Screenshot 2023-11-07 195749](https://github.com/FruitPnchSamuraiG/Sign_language_detection/assets/146465657/555df70b-4efc-4f8b-af50-be5d65d24451)
 
-
-      - When the camera opens pose in the Sign Language poses for 30 sequences in 'Hello', 'Thanks', and 'I Love You'.
-
-2. NeuralNetwork.py
-
-      - To train the collected data on the Long Short Term Memory Architecture hit run
 
